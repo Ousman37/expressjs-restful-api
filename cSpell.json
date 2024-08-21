@@ -3,8 +3,18 @@
   "language": "en",
   "words": [
     "Inkluder",
+    "bruker",
+    "gikk",
+    "påkrevd",
+    "Navn",
+    "Passord",
+    "eksisterer",
+    "Opprett",
     "rutene",
+    "Brukeradministrasjon",
     "enkel",
+    "Hjem",
+    "Brukere",
     "endepunkt",
     "Velkommen",
     "tilkobling",
@@ -14,7 +24,15 @@
     "Feil",
     "oppstart",
     "serveren",
-    "kjører"
+    "kjører",
+    "opprettelse",
+    "Ingen",
+    "duplikater",
+    "flere",
+     "Filtrer",
+     "opprettet",
+     "allerede",
+     "registrert"
   ],
   "ignorePaths": ["**/node_modules/**"]
 }

@@ -1,6 +1,7 @@
 require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
+const userRoutes = require("./routes/userRoutes");
 
 const app = express();
 
@@ -8,7 +9,6 @@ const app = express();
 app.use(express.json());
 
 // Inkluder rutene
-const userRoutes = require("./routes/userRoutes");
 app.use("/api", userRoutes);
 
 // En enkel rot-endepunkt for testing
