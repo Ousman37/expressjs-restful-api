@@ -1,0 +1,20 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "Inkluder",
+    "rutene",
+    "enkel",
+    "endepunkt",
+    "Velkommen",
+    "tilkobling",
+    "tilkoblet",
+    "tilkoblingsfeil",
+    "oppsett",
+    "Feil",
+    "oppstart",
+    "serveren",
+    "kjører"
+  ],
+  "ignorePaths": ["**/node_modules/**"]
+}
